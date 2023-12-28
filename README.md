@@ -10,3 +10,5 @@ Required for the project is: HC-SR04 Ultrasonic Sensor, LCD 1602 Module, RGB LED
 ![IMG_2202](https://github.com/sarthak-bali/ArduinoProjects/assets/93104515/57c0fbcf-42c8-479c-824e-2b497341ece8)
 
 
+# Mini Piano
+This project utilizes a passive buzzer and the tone functions to play notes of a piano. The project is expandable to as many tones as wanted.
