@@ -7,10 +7,15 @@ This project utilizes the HC-SR04 ultrasonic sensor to read and display distance
 
 Required for the project is: HC-SR04 Ultrasonic Sensor, LCD 1602 Module, RGB LED, Passive Buzzer, Potentiometer, 26 Jumper Wires (Various Lengths).
 
-![IMG_2202](https://github.com/sarthak-bali/ArduinoProjects/assets/93104515/57c0fbcf-42c8-479c-824e-2b497341ece8)
+![Proximity Sensor](https://github.com/sarthak-bali/ArduinoProjects/assets/93104515/57c0fbcf-42c8-479c-824e-2b497341ece8)
+
+# Temperature and Humidity Sensor
+Using the DHT-11 temperature and humidity sensor this project retrives and displays temperature and humidity readings in any given area. The temperature is displayed in celsius and humidity is displayed as a percent which are directly pulled from the associated DHT Sensor library.
+
+![Temp+Humidity](https://github.com/sarthak-bali/ArduinoProjects/assets/93104515/54de5e07-d9a4-4294-ba5f-500858c1f31c)
 
 
 # Mini Piano
 This project utilizes a passive buzzer and the tone functions to play notes of a piano. The project is expandable to as many tones as wanted.
 
-![IMG_2214](https://github.com/sarthak-bali/ArduinoProjects/assets/93104515/f8e4c885-c9ce-45a6-aa2a-39e5c824cf2a)
+![Mini Piano](https://github.com/sarthak-bali/ArduinoProjects/assets/93104515/f8e4c885-c9ce-45a6-aa2a-39e5c824cf2a)
